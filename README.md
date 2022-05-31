@@ -23,8 +23,6 @@ To address these problems, we propose a smart and novel robotic cellphone holder
 
 ### CASH SYSTEM DEMO: Up/Down/Left/Right Movement
 <a href="https://youtu.be/DVr2x93KlOQ">
-<img src="Miscellaneous/Tetris_logo.jpg"
-   style="float: left; margin-right: 0px;" />
 </a>
 
 ---
