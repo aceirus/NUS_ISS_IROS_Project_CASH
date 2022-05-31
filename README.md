@@ -28,3 +28,17 @@ To address these problems, we propose a smart and novel robotic cellphone holder
 </a>
 
 ---
+### CASH SYSTEM DEMO: Front/Back Movement
+<a href="https://youtu.be/_69mIraG3G8">
+<img src="Miscellaneous/FB.jpg"
+   style="float: left; margin-right: 0px;" />
+</a>
+
+---
+### CASH SYSTEM DEMO: Up/Down/Left/Right Movement
+<a href="https://youtu.be/Mf7oWQOTHns">
+<img src="Miscellaneous/alert.jpg"
+   style="float: left; margin-right: 0px;" />
+</a>
+
+---
