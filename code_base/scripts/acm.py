@@ -114,12 +114,6 @@ def tracking_thread():
 
             di_x = 'R'
             di_y = 'D'
-            
-            # PID controller gain variables
-            KP=0.4  #proportiaonal
-            KD=0.1  #derivative
-            KI=0.00001 #integral
-            
             if(center_t[0] - center[0] > 0):#############pid for Left and right
                 error_x = abs(center[0] - center_t[0])
                 speed_x =((error_x*KP) +(prev_error_x*KD) +(sum_error_x*KI))//10
